@@ -18,7 +18,7 @@ We would greatly appreciate if you use the following citation if you find this c
 
 ```
 @inproceedings{Kulkarni:slanggen,
- author = {Kulkarni,Vivek and Wang William Yang},
+ author = {Kulkarni,Vivek and Wang William, Yang},
  title = {Simple Models for Word Formation in English Slang},
  booktitle = {Proceedings of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
  series = {NAACL HLT '18},
