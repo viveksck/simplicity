@@ -1,0 +1,579 @@
+Loading vocabularies from ../../g2p-seq2seq-cmudict
+Creating 2 layers of 512 units.
+Reading model parameters from ../../g2p-seq2seq-cmudict
+abe	EY B
+ad	AE D
+ad	AE D
+advert	AE D V ER T
+addy	AE D IY
+ade	EY D
+adg	AE JH
+adman	AE D M AH N
+admin	AE D M IH N
+adv	AE D V ER
+afish	AH F IH SH
+after	AE F T ER
+ag	AE G
+aggro	AE G R OW
+al	AE L
+alky	AO K IY
+ambo	AE M B OW
+ammo	AE M OW
+amp	AE M P
+ana	AE N AH
+andy	AE N D IY
+angie	AE NG IY
+anon	AA N AO N
+anthro	AE N TH R OW
+app	AE P
+archie	AA R CH IY
+argie	AA R JH IY
+arvo	AA R V OW
+aussie	AO S IY
+auto	AO T OW
+ave	AE V AH N UW
+babs	B AE B Z
+baccy	B AE K S IY
+backstitution	B AE K S T AH T UW SH AH N
+barb	B AA R B
+barbie	B AA R B IY
+bart	B AA R T
+bathers	B AE DH ER Z
+beano	B IY N OW
+bedder	B EH D ER
+bedsitter	B EH D S IH T ER
+beeb	B IY B
+belle	B EH L
+belle	B EH L
+benny	B EH N IY
+berg	B ER G
+bermies	B ER M IY Z
+bernie	B ER N IY
+bert	B ER T
+bert	B ER T
+bet	B EH T
+bet	B EH T
+bevie	B EH V IY
+bevvy	B EH V IY
+bgirl	B ER L
+b'ham	B IY HH AH M
+bi	B AY
+bib	B IH B
+biccy	B IH K S IY
+bike	B AY K
+bikie	B IH K IY
+billies	B IH L IY Z
+binos	B IY N OW S
+biopic	B AY AA P IH K
+biz	B IH Z
+bldg	B EH L JH
+boatie	B OW T IY
+bob	B AA B
+bodbiz	B AA D B IH Z
+bogey	B OW G IY
+boney	B OW N IY
+bonny	B AA N IY
+boob	B UW B
+bot	B AA T
+bozzy	B AA Z IY
+bra	B R AA
+breathalyser	B R EH TH AH L AY Z ER
+brekker	B R EH K ER
+brill	B R IH L
+bro	B R OW
+brolly	B R AA L IY
+bronc	B R AA NG K
+bus	B AH S
+butch	B AH CH
+bway	B W EY
+c	S IY
+ca	S IY EY
+cab	K AE B
+caddie	K AE D IY
+caf	K AE F
+caff	K AE F
+cam	K AE M
+camo	K AA M OW
+cap	K AE P
+capital	K AE P AH T AH L
+caps	K AE P S
+cardi	K AA R D IY
+cardie	K AA R D IY
+carny	K AA R N IY
+catho	K AE TH OW
+cause	K AA Z
+cos	K AO S
+cos	K AO S
+celebs	S IY L EH B Z
+cellphone	S EH L F OW N
+cello	CH EH L OW
+celly	S EH L IY
+cept	S EH P T
+champers	CH AE M P ER Z
+shampers	SH AE M P ER Z
+charlie	CH AA R L IY
+charles	CH AA R AH L Z
+chemo	K IY M OW
+chevy	CH EH V IY
+chicom	CH IH K AA M
+chippie	CH IH P IY
+choke	CH OW K
+chrissie	K R IH S IY
+chute	SH UW T
+cig	S IH G
+ciggie	S IH G IY
+ciggy	S IH G IY
+civvies	S IH V IY Z
+coke	K OW K
+coke	K OW K
+collekkers	K AA L IH K ER Z
+combo	K AA M B OW
+comfy	K AA M F IY
+commie	K AA M IY
+commo	K AA M OW
+common	K AA M AH N
+comp	K AA M P
+comp	K AA M P
+compo	K AA M P OW
+comsymp	K AA M S IH M P
+condo	K AA N D OW
+congrats	K AA NG G R AH T S
+conlang	K AA N L AE NG
+coon	K UW N
+copter	K AA P T ER
+corp	K AO R P
+cortisone	K AO R T AH Z OW N
+cozzie	K AA Z IY
+cred	K R EH D
+cred	K R EH D
+credie	K R EH D IY
+crim	K R IH M
+croc	K R AA K
+cruits	K R UW T S
+csection	S EH K SH AH N
+cuke	K Y UW K
+curio	K UH R IY OW
+cute	K Y UW T
+cutie	K Y UW T IY
+cutey	K Y UW T IY
+cuz	K AH Z
+cyborg	S AY B AO R G
+darl	D AA R L
+deb	D EH B
+debby	D EH B IY
+decaf	D IY K AE F
+decaff	D IY K AE F
+deed	D IY D
+deets	D IY T S
+def	D EH F
+deli	D EH L IY
+delish	D EH L IH SH
+dem	D EH M
+demo	D EH M OW
+desres	D EH S ER Z
+dif	D IH F
+digicabes	D IH JH AH K EY B Z
+dino	D IY N OW
+dis	D IH S
+disco	D IH S K OW
+divi	D IY V IY
+dizzy	D IH Z IY
+dlr	D EH L T ER
+doc	D AA K
+dol	D AA L
+dolph	D OW L F
+dora	D AO R AH
+dorm	D AO R M
+droid	D R OY D
+druggie	D R AH G IY
+ecoli	IY K OW L IY
+edbiz	EH D B IH Z
+ekker	EH K ER
+emo	EH M OW
+eve	IY V
+evodevo	EH V OW D EH V OW
+ex	EH K S
+exam	IH G Z AE M
+exec	EH G Z EH K
+fab	F AE B
+fag	F AE G
+famdram	F AE M D R AE M
+fan	F AE N
+fanfic	F AE N F IH K
+fash	F AE SH
+fave	F EY V
+fax	F AE K S
+fem	F EH M
+fence	F EH N S
+fend	F EH N D
+fergie	F ER G IY
+fess	F EH S
+fiche	F IH CH
+finals	F AY N AH L Z
+flex	F L EH K S
+flo	F L OW
+floss	F L AA S
+flu	F L UW
+folkie	F OW K IY
+footer	F UH T ER
+footie	F UH T IY
+footy	F UH T IY
+fraid	F R EY D
+frat	F R AE T
+fred	F R EH D
+fridge	F R IH JH
+fries	F R AY Z
+fro	F R OW
+froyo	F R OY OW
+gail	G EY L
+gainst	G EY N S T
+garbo	G AA R B OW
+gas	G AE S
+gator	G EY T ER
+general	JH EH N ER AH L
+gents	JH EH N T S
+gerry	JH EH R IY
+gin	JH IH N
+glam	G L AE M
+glutes	G L UW T S
+goalie	G OW L IY
+gorby	G AO R B IY
+grad	G R AE D
+grandma	G R AE M AA
+grannie	G R AE N IY
+graph	G R AE F
+grotty	G R AA T IY
+gussie	G AH S IY
+gym	JH IH M
+gypsy	JH IH P S IY
+h	EY CH
+hal	HH AE L
+hanky	HH AE NG K IY
+hard	HH AA R D
+hash	HH AE SH
+hetero	HH EH T ER OW
+hifi	HH IY F IY
+hightech	HH AY T EH K
+hippo	HH IH P OW
+hols	HH OW L Z
+homo	HH OW M OW
+honkers	HH AO NG K ER Z
+hrn	ER N
+hubby	HH AH B IY
+hyper	HH AY P ER
+id	IH D
+imposs	IH M P AO S
+inf	IH N F
+info	IH N F OW
+intercom	IH N T ER K AA M
+intro	IH N T R OW
+ism	IH Z AH M
+jlo	JH L OW
+jams	JH AE M Z
+jeez	JH IY Z
+jo'burg	JH OW B ER G
+jollo	JH AA L OW
+journo	JH UH R N OW
+jpn	JH EH N
+jst	JH AE S T
+jumbo	JH AH M B OW
+juvie	JH UW V IY
+juvey	JH UW V IY
+kidvid	K IH D V IH D
+klepto	K L EH P T OW
+lab	L AE B
+lat	L AA T
+lax	L AE K S
+lax	L AE K S
+leccer	L EH K S ER
+lecker	L EH K ER
+lekker	L EH K ER
+leet	L IY T
+legit	L AH JH IH T
+lesbo	L EH S B OW
+lexie	L EH K S IY
+lib	L IH B
+limo	L IY M OW
+lisa	L IY S AH
+liz	L IH Z
+lizzy	L IH Z IY
+litcrit	L IH T K R IH T
+lizzie	L IH Z IY
+loco	L OW K OW
+loid	L OY D
+lon	L AA N
+loony	L UW N IY
+looney	L UW N IY
+lor	L AO R
+ltd	EH L T IY D IY
+lum	L AH M
+lunch	L AH N CH
+lyn	L IH N
+ma	M AA
+mac	M AE K
+mac	M AE K
+mag	M AE G
+maggie	M AE G IY
+mandy	M AE N D IY
+marvy	M AA R V IY
+mate	M EY T
+maths	M AE TH S
+matric	M AE T R IH K
+maybs	M EY B Z
+mayo	M EY OW
+mel	M EH L
+memo	M EH M OW
+mend	M EH N D
+mensh	M EH N SH
+meth	M EH TH
+mex	M EH K S
+mgr	M AH G
+mia	M IY AH
+midcult	M IH D K AH L T
+mike	M AY K
+mike	M AY K
+milko	M IH L K OW
+mimeo	M IY M IY OW
+misper	M IH S P ER
+miss	M IH S
+mizzy	M IH Z IY
+mob	M AA B
+mobes	M OW B Z
+mocs	M AA K S
+mono	M OW N OW
+montie	M AA N T IY
+movie	M UW V IY
+mozzie	M AA Z IY
+msg	M IH G S IY
+mum	M AH M
+mush	M AH SH
+muso	M UW S OW
+musso	M UW S OW
+nam	N AE M
+nana	N AE N AH
+narc	N AA R K
+nasho	N AE SH OW
+natch	N AE CH
+natural	N AE CH ER AH L
+neath	N IY TH
+neg	N EH G
+net	N EH T
+niff	N IH F
+nig	N IH G
+nightie	N AY T IY
+nr	N AA R
+nuff	N AH F
+o'er	OW ER
+offie	AO F IY
+opart	OW P AA R T
+op	AA P
+oped	OW P T
+oppo	OW P OW
+orgman	AO R G M AH N
+p	P IY
+pants	P AE N T S
+pash	P AE SH
+pat	P AE T
+patsy	P AE T S IY
+pecs	P EH K S
+peeps	P IY P S
+pen	P EH N
+perm	P ER M
+perv	P ER V
+phenom	F EH N AH M
+philly	F IH L IY
+phone	F OW N
+photo	F OW T OW
+photog	F OW T AA G
+physio	F IH Z IY OW
+piano	P IY AE N OW
+pic	P IH K
+pix	P IH K S
+pike	P AY K
+plane	P L EY N
+pls	P AH L Z
+ply	P L AY
+poke	P OW K
+pokies	P OW K IY Z
+pol	P AO L
+polio	P OW L IY OW
+polly	P AA L IY
+pop	P AA P
+porn	P AO R N
+possum	P AA S AH M
+postie	P AA S T IY
+ppl	P IY L
+pram	P R AE M
+p'raps	P ER AE P S
+preemie	P R IY M IY
+prefab	P R IY F AE B
+preg	P R EH G
+preggers	P R EH G ER Z
+preggo	P R EH G OW
+prenup	P R IY N AH P
+prep	P R EH P
+prepreg	P R IY P R EH G
+pres	P R EH Z
+primaries	P R AY M ER IY Z
+pro	P R OW
+pro	P R OW
+proam	P R OW M
+probs	P R AA B Z
+probs	P R AA B Z
+proctor	P R AA K T ER
+prof	P R AA F
+prog	P R AA G
+promo	P R OW M OW
+pros	P R OW Z
+prot	P R AA T
+psych	S AY K
+psycho	S AY K OW
+pub	P AH B
+pulmotor	P UH L M OW T ER
+quake	K W EY K
+quasar	K W EY Z AA R
+quiz	K W IH Z
+rad	R AE D
+rasta	R AA S T AH
+ref	R EH F
+reffo	R EH F OW
+rego	R EH G OW
+rehab	R IY HH AE B
+rellies	R EH L IY Z
+rents	R EH N T S
+rgds	R EH G D Z
+rhino	R AY N OW
+rick	R IH K
+roach	R OW CH
+robbie	R AA B IY
+robbo	R AA B OW
+romcom	R AA M K AA M
+ron	R AA N
+rugger	R AH G ER
+sainters	S EY N T ER Z
+sal	S AE L
+salvo	S AE L V OW
+sammo	S AE M OW
+sandy	S AE N D IY
+sarge	S AA R JH
+sausie	S AO Z IY
+sax	S AE K S
+scifi	S IY F IY
+scouse	S K AW S
+script	S K R IH P T
+sec	S EH K
+secko	S EH K OW
+secy	S EH S IY
+servo	S ER V OW
+shake	SH EY K
+sheen	SH IY N
+sherry	SH EH R IY
+shoppie	SH AA P IY
+showbiz	SH OW B IH Z
+shrink	SH R IH NG K
+siggy	S IH G IY
+sim	S IH M
+sis	S IH S
+sissy	S IH S IY
+sitcom	S IH T K AA M
+skin	S K IH N
+slomo	S L OW M OW
+smoko	S M OW K OW
+soccer	S AA K ER
+spagbol	S P AE G B AH L
+spaz	S P AA Z
+spec	S P EH K
+specs	S P EH K S
+spite	S P AY T
+spk	S P IY K EY
+sport	S P AO R T
+spy	S P AY
+sry	S R AY
+starkers	S T AA R K ER Z
+starko	S T AA R K OW
+stereo	S T EH R IY OW
+still	S T IH L
+story	S T AO R IY
+strange	S T R EY N JH
+stude	S T UW D
+stupe	S T UW P
+sub	S AH B
+sub	S AH B
+sue	S UW
+sum	S AH M
+sunnies	S AH N IY Z
+surfie	S ER F IY
+swimmers	S W IH M ER Z
+sydders	S IH D ER Z
+sysop	S AY S AA P
+tab	T AE B
+tab	T AE B
+tabshow	T AE B SH AW
+tache	T AE CH
+talc	T AE L K
+tard	T AA R D
+tato	T AA T OW
+taxi	T AE K S IY
+tb	T IY B IY
+teach	T IY CH
+tec	T EH K
+tech	T EH K
+teen	T IY N
+tele	T EH L IY
+telly	T EH L IY
+tempo	T EH M P OW
+tend	T EH N D
+tick	T IH K
+tilda	T IH L D AH
+tish	T IH SH
+tom	T AA M
+toria	T AO R IY AH
+trad	T R AE D
+trank	T R AE NG K
+trish	T R IH SH
+trix	T R IH K S
+tu	T UW
+tude	T UW D
+turps	T ER P S
+tv	T IY V IY
+tween	T W IY N
+typo	T AY P OW
+u	Y UW
+uni	Y UW N IY
+uey	Y UW IY
+underground	AH N D ER G R AW N D
+undies	AH N D IY Z
+vag	V AE G
+vamp	V AE M P
+van	V AE N
+van	V AE N
+varsity	V AA R S AH T IY
+vator	V EY T ER
+vee	V IY
+veg	V EH G
+veg	V EH G
+veggie	V EH JH IY
+veggie	V EH JH IY
+vent	V EH N T
+venture	V EH N CH ER
+ves	V EH S
+vet	V EH T
+vet	V EH T
+vibes	V AY B Z
+vicky	V IH K IY
+vry	V R IY
+vs	V ER S AH Z
+whatevs	W AH T EH V Z
+wifi	W IY F IY
+wig	W IH G
+wino	W IY N OW
+wk	W AH K
+woolies	W UH L IY Z
+wordy	W ER D IY
+xan	Z AE N
+yard	Y AA R D
+za	Z AA
+zep	Z EH P
+zine	Z AY N
+zing	Z IH NG
+zoo	Z UW

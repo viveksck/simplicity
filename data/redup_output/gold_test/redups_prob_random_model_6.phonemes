@@ -1,0 +1,53 @@
+Loading vocabularies from ../../g2p-seq2seq-cmudict
+Creating 2 layers of 512 units.
+Reading model parameters from ../../g2p-seq2seq-cmudict
+zero zepo	Z IY R OW Z IY P OW
+ho hi	HH OW HH AY
+trit trot	T R IH T T R AA T
+howk dowk	HH AW K D AW K
+clop cloh	K L AA P K L OW
+knick kyick	N IH K K AY IH K
+twit lwit	T W IH T L W IH T
+puzzled puzzzed	P AH Z AH L D P AH Z D
+lovey loviy	L AH V IY L AH V IY
+henny hanny	HH EH N IY HH AE N IY
+breakfast bdeakfast	B R EH K F AH S T B D IY K F AE S T
+my sy	M AY S AY
+holus howus	HH OW L AH S HH AW AH S
+munge munte	M AH N JH M AH N T
+hokey hikey	HH OW K IY HH AY K IY
+andy anwy	AE N D IY AE N W IY
+ticky vicky	T IH K IY V IH K IY
+pooh puoh	P UW P UW
+child chill	CH AY L D CH IH L
+limo simo	L IY M OW S IY M OW
+strim stpim	S T R IH M S T P IH M
+doo dio	D UW D IY OW
+ju ji	JH UW JH IY
+itsy ipsy	IH T S IY IH P S IY
+teensy teensl	T IY N Z IY T IY N Z AH L
+bibbity bisbity	B IH B AH T IY B IH S B AH T IY
+artsy ertsy	AA R T S IY ER T S IY
+tabby tanby	T AE B IY T AE N B IY
+tum hum	T AH M HH AH M
+yo vo	Y OW V OW
+pid mid	P IH D M IH D
+tom tam	T AA M T AE M
+pink piyk	P IH NG K P IY K
+ha sa	HH AA S AA
+snuggly snuggry	S N AH G L IY S N AH G R IY
+opinion opinien	AH P IH N Y AH N OW P IH N IY AH N
+click climk	K L IH K K L IH M K
+holy holz	HH OW L IY HH OW L Z
+jug jog	JH AH G JH AA G
+namby nemby	N AE M B IY N EH M B IY
+huzz suzz	HH AH Z S AH Z
+tiny timy	T AY N IY T AY M IY
+oink oizk	OY NG K OY Z K
+boogie boopie	B UW G IY B UW P IY
+snip wnip	S N IH P W N IH P
+tam tan	T AE M T AE N
+blah bkah	B L AA B B AA
+woofle woorle	W UH F AH L W UH R L
+chuff cpuff	CH AH F P AH F
+girly girby	G ER L IY G ER B IY

@@ -1,0 +1,579 @@
+Loading vocabularies from ../../g2p-seq2seq-cmudict
+Creating 2 layers of 512 units.
+Reading model parameters from ../../g2p-seq2seq-cmudict
+abraham	EY B R AH HH AE M
+administration	AE D M IH N AH S T R EY SH AH N
+advertisement	AE D V ER T AY Z M AH N T
+advertisement	AE D V ER T AY Z M AH N T
+address	AE D R EH S
+lemonade	L EH M AH N EY D
+adermatoglyphia	AE D ER M AH T OW L AH F IY AH
+advertising man	AE D V ER T AY Z IH NG@M AE N
+administration	AE D M IH N AH S T R EY SH AH N
+advanced	AH D V AE N S T
+aficionado	AH F IY SH Y AH N AA D OW
+afternoon	AE F T ER N UW N
+agatha	AE G AH TH AH
+aggression	AH G R EH SH AH N
+alfred	AE L F R AH D
+alcoholic	AE L K AH HH AA L IH K
+ambulance worker	AE M B Y AH L AH N S@W ER K ER
+ammunition	AE M Y AH N IH SH AH N
+amplifier	AE M P L AH F AY ER
+anorexia	AE N ER EH K S IY AH
+andrew	AE N D R UW
+angela	AE N JH AH L AH
+anonymous	AH N AA N AH M AH S
+anthropology	AE N TH R AH P AA L AH JH IY
+application	AE P L AH K EY SH AH N
+archibald	AA R CH AH B AO L D
+argentinian	AA R JH AH N T IH N IY AH N
+afternoon	AE F T ER N UW N
+australian	AO S T R EY L Y AH N
+automobile	AO T AH M OW B IY L
+avenue	AE V AH N UW
+barbara	B AA R B ER AH
+tobacco	T AH B AE K OW
+backsubstitution	B AE K S AH B S T AH T UW SH AH N
+barbara	B AA R B ER AH
+barbecue	B AA R B IH K Y UW
+bartholomew	B AA R TH AA L AH M Y UW
+bathing shorts	B EY DH IH NG@SH AO R T S
+beanfeast	B IY N F IY S T
+bedroom	B EH D R UW M
+bedsitting room	B EH D S IH T IH NG@R UW M
+bbc	B IY B IY S IY
+arabella	AE R AH B EH L AH
+belinda	B AH L IH N D AH
+benzedrine tablet	B EH N Z AH D R IY N@T AE B L AH T
+iceberg	AY S B ER G
+bermudas	B ER M Y UW D AH Z
+bernard	B ER N AA R D
+albert	AE L B ER T
+bertie	B ER T IY
+abet	AH B EH T
+elizabeth	IH L IH Z AH B AH TH
+beverage	B EH V ER IH JH
+beverage	B EH V ER IH JH
+bar girl	B AA R@G ER L
+birmingham	B ER M IH NG HH AE M
+bisexual	B AY S EH K SH UW AH L
+bibliotheque	B IH B L IY OW T EH K
+biscuit	B IH S K AH T
+bicycle	B AY S IH K AH L
+motorbike	M OW T ER B AY K
+dollar bills	D AA L ER@B IH L Z
+binoculars	B AH N AA K Y AH L ER Z
+biographical picture	B AY AH G R AE F IH K AH L@P IH K CH ER
+business	B IH Z N AH S
+building	B IH L D IH NG
+boatman	B OW T M AH N
+robert	R AA B ER T
+body business	B AA D IY@B IH Z N AH S
+bogart	B OW G AA R T
+bonaparte	B AA N AH P AA R T
+bonaparte	B AA N AH P AA R T
+booby	B UW B IY
+robot	R OW B AH T
+boswell	B AA Z W EH L
+brassiere	B R AE S IY EH R
+breath analyser	B R EH TH@AE N AH L AY Z ER
+breakfast	B R EH K F AH S T
+brilliant	B R IH L Y AH N T
+brother	B R AH DH ER
+umbrella	AH M B R EH L AH
+bronco	B R AA NG K OW
+omnibus	AA M N AH B AH S
+butcher	B UH CH ER
+broadway	B R AO D W EY
+century	S EH N CH ER IY
+carcinoma	K AA R S AH N OW M AH
+taximeter cabriolet	T AE K S AH M IY T ER@K AE B R IY OW L EY
+cadillac	K AE D AH L AE K
+cafeteria	K AE F AH T IH R IY AH
+cafe	K EY F
+camera	K AE M ER AH
+camouflage	K AE M AH F L AA ZH
+captain	K AE P T AH N
+capital city	K AE P AH T AH L@S IH T IY
+capital letters	K AE P AH T AH L@L EH T ER Z
+cardigan	K AA R D IH G AH N
+cardigan	K AA R D IH G AH N
+carnival worker	K AA R N AH V AH L@W ER K ER
+catholic	K AE TH L IH K
+because	B IH K AH Z
+because	B IH K AH Z
+because	B IH K AH Z
+celebrities	S AH L EH B R AH T IY Z
+cellular telephone	S EH L Y AH L ER@T EH L AH F OW N
+violoncello	V AY OW L OW N T S EH L OW
+cellular phone	S EH L Y AH L ER@F OW N
+except	IH K S EH P T
+champagne	SH AE M P EY N
+champagne	SH AE M P EY N
+charles	CH AA R AH L Z
+charlotte	SH AA R L AH T
+chemotherapy	K IY M OW TH EH R AH P IY
+chevrolet	SH EH V R AH L EY
+chinese communist	CH IH N IY Z@K AA M Y AH N AH S T
+chipshop	CH IH P SH AA P
+artichoke	AA R T AH CH OW K
+christine	K R IH S T IY N
+parachute	P EH R IH SH UW T
+cigarette	S IH G ER EH T
+cigarette	S IH G ER EH T
+cigarette	S IH G ER EH T
+civilian clothes	S AH V IH L Y AH N@K L OW DH Z
+coca cola	K OW K AH@K OW L AH
+cocaine	K OW K EY N
+collections	K AH L EH K SH AH N Z
+combination	K AA M B AH N EY SH AH N
+comfortable	K AH M F ER T AH B AH L
+communist	K AA M Y AH N AH S T
+communist	K AA M Y AH N AH S T
+common sense	K AA M AH N@S EH N S
+computer	K AH M P Y UW T ER
+competition	K AA M P AH T IH SH AH N
+compensation	K AA M P AH N S EY SH AH N
+communist sympathizer	K AA M Y AH N AH S T@S IH M P AH TH AY Z ER
+condominium	K AA N D AH M IH N IY AH M
+congratulations	K AH N G R AE CH AH L EY SH AH N Z
+constructed language	K AH N S T R AH K T AH D@L AE NG G W AH JH
+raccoon	R AE K UW N
+helicopter	HH EH L IH K AA P T ER
+corporation	K AO R P ER EY SH AH N
+corticosterone	K AO R T IH K OW S T EH R OW N
+costume	K AA S T UW M
+credit	K R EH D AH T
+credibility	K R EH D AH B IH L AH T IY
+credit card	K R EH D AH T@K AA R D
+criminal	K R IH M AH N AH L
+crocodile	K R AA K AH D AY L
+recruits	R IY K R UW T S
+caesarean section	K EY S ER IY N@S EH K SH AH N
+cucumber	K Y UW K AH M B ER
+curiosity	K Y UH R IY AA S AH T IY
+acute	AH K Y UW T
+cute	K Y UW T
+cute	K Y UW T
+cousin	K AH Z AH N
+cybernetic organism	S AY B ER N EH T IH K@AO R G AH N IH Z AH M
+darling	D AA R L IH NG
+debutante	D EH B Y AH T AA N T
+deborah	D EH B ER AH
+defcaffeinated coffee	D IY F AE F AH N EY T AH D@K AA F IY
+decaffeinated coffee	D IY K AE F AH N EY T AH D@K AA F IY
+indeed	IH N D IY D
+details	D IY T EY L Z
+definitely	D EH F AH N AH T L IY
+delicatessen	D EH L IH K AH T EH S AH N
+delicious	D AH L IH SH AH S
+democrat	D EH M AH K R AE T
+demonstration	D EH M AH N S T R EY SH AH N
+desirable residence	D AH Z AY ER AH B AH L@R EH Z AH D AH N S
+difference	D IH F R AH N S
+digital cable	D IH JH AH T AH L@K EY B AH L
+dinosaur	D AY N AH S AO R
+disrespect	D IH S R AH S P EH K T
+discotheque	D IH S K OW T EH K
+dividend	D IH V AH D EH N D
+disraeli	D IH Z R EY L IY
+dollar	D AA L ER
+doctor	D AA K T ER
+dorothy	D AO R AH TH IY
+adolphus	AE D OW L F AH S
+theodora	TH IY AH D AO R AH
+dormitory	D AO R M AH T AO R IY
+android	AE N D R OY D
+drug addict	D R AH G@AH D IH K T
+entamoeba coli	EH N T AH M OW B AH@K OW L IY
+educational business	EH JH AH K EY SH AH N AH L@B IH Z N AH S
+exercise	EH K S ER S AY Z
+emotional	IH M OW SH AH N AH L
+evelyn	EH V AH L AH N
+evolutionary developmental biology	IY V AH L UW SH AH N EH R IY@D IH V EH L AH P M EH N T AH L@B AY AA L AH JH IY
+exhusband	IH G Z HH AH Z B AH N D
+examination	IH G Z AE M AH N EY SH AH N
+executive officer	IH G Z EH K Y AH T IH V@AO F AH S ER
+fabulous	F AE B Y AH L AH S
+faggot	F AE G AH T
+family drama	F AE M AH L IY@D R AA M AH
+fanatic	F AH N AE T IH K
+fan fiction	F AE N@F IH K SH AH N
+fashion	F AE SH AH N
+favourite	F AE V ER AH T
+facsimile	F AE K S IH M AH L IY
+feminine	F EH M AH N AH N
+defence	D AH F EH N S
+defend	D AH F EH N D
+ferguson	F ER G AH S AH N
+confess	K AH N F EH S
+microfiche	M AY K R OW F IY CH
+final examinations	F AY N AH L@IH G Z AE M AH N EY SH AH N Z
+flexible	F L EH K S AH B AH L
+floss	F L AA S
+florence	F L AO R AH N S
+influenza	IH N F L UW EH N Z AH
+folk singer	F OW K@S IH NG ER
+footbatll	F UH T B AE T AH L
+football	F UH T B AO L
+football	F UH T B AO L
+afraid	AH F R EY D
+fraternity	F R AH T ER N AH T IY
+alfred	AE L F R AH D
+refrigerator	R AH F R IH JH ER EY T ER
+french fried potatoes	F R EH N CH@F R IY D@P AH T EY T OW Z
+afro	AE F R OW
+frozen yogurt	F R OW Z AH N@Y OW G ER T
+abigail	AE B AH G EY L
+against	AH G EH N S T
+garbage collector	G AA R B IH JH@K AH L EH K T ER
+gasoline	G AE S AH L IY N
+alligator	AE L AH G EY T ER
+general servant	JH EH N ER AH L@S ER V AH N T
+gentlemen's lavatory	JH EH N AH L M EH N Z@L AE V AH T AO R IY
+gerald	JH EH R AH L D
+genever	JH AH N EH V ER
+glamour	G L AE M ER
+gluteus maximus	G L UW T OY Z@M AE K S AH M AH S
+goalkeeper	G OW L K IY P ER
+gorbachev	G AO R B AH CH AO F
+graduate	G R AE JH AH W AH T
+grandmother	G R AE N M AH DH ER
+grandmother	G R AE N M AH DH ER
+graphic formula	G R AE F IH K@F AO R M Y AH L AH
+grotesque	G R OW T EH S K
+augustus	AA G AH S T AH S
+gymnasium	JH IH M N EY Z IY AH M
+egyptian	IH JH IH P SH AH N
+heroin	HH EH R OW AH N
+harry	HH EH R IY
+handkerchief	HH AE NG K ER CH IY F
+hard labour	HH AA R D@L AH B UH R
+hashish	HH AE SH IH SH
+heterosexual	HH EH T ER OW S EH K SH AH W AH L
+high fidelity	HH AY@F AY D EH L AH T IY
+high technology	HH AY@T EH K N AA L IH JH IY
+hippopotamus	HH IH P AH P AA T AH M AH S
+holidays	HH AA L AH D EY Z
+homosexual	HH OW M OW S EH K SH AH W AH L
+hong kong	HH AO NG@K AO NG
+heroin	HH EH R OW AH N
+husband	HH AH Z B AH N D
+hyperactive	HH AY P ER AE K T IH V
+identification	AY D EH N AH F AH K EY SH AH N
+impossible	IH M P AA S AH B AH L
+infinitely	IH N F AH N AH T L IY
+information	IH N F AO R M EY SH AH N
+intercommunication system	IH N T ER K AH M Y UW N AH K EY SH AH N@S IH S T AH M
+introduction	IH N T R AH D AH K SH AH N
+fascism	F AE SH IH Z AH M
+jennifer lopez	JH EH N AH F ER@L OW P EH Z
+pyjamas	P IY JH AE M AH Z
+jesus	JH IY Z AH S
+johannesburg	JH OW HH AE N AH S B ER G
+jollification	JH AA L AH F AH K EY SH AH N
+journalist	JH ER N AH L AH S T
+japan	JH AH P AE N
+just	JH AH S T
+jumbo jet	JH AH M B OW@JH EH T
+juvenile	JH UW V AH N AH L
+juvenile	JH UW V AH N AH L
+kid video	K IH D@V IH D IY OW
+kleptomaniac	K L EH P T AH M EY N IY AE K
+laboratory	L AE B R AH T AO R IY
+latissimus dorsi	L AH T IH S AH M AH S@D AO R S IY
+relaxed	R IY L AE K S T
+relax	R IY L AE K S
+lecture	L EH K CH ER
+lecture	L EH K CH ER
+lecture	L EH K CH ER
+elite	EY L IY T
+legitimate	L AH JH IH T AH M AH T
+lesbian	L EH Z B IY AH N
+alexandra	AE L IH G Z AE N D R AH
+liberation	L IH B ER EY SH AH N
+limousine	L IH M AH Z IY N
+elisabeth	AH L IH Z AH B EH TH
+elisabeth	AH L IH Z AH B EH TH
+elisabeth	AH L IH Z AH B EH TH
+literary criticism	L IH T ER EH R IY@K R IH T AH S IH Z AH M
+elizabeth	IH L IH Z AH B AH TH
+locomotive	L OW K AH M OW T IH V
+celluloid	S EH L AH L OY D
+alonso	AH L AA N S OW
+lunatic	L UW N AH T IH K
+lunatic	L UW N AH T IH K
+lord	L AO R D
+limited	L IH M AH T AH D
+columbus	K AH L AH M B AH S
+luncheon	L AH N CH AH N
+evelyn	EH V AH L AH N
+mama	M AA M AH
+macaroni	M AE K ER OW N IY
+macintosh	M AE K AH N T AO SH
+maggie	M AE G IY
+margaret	M AA R G R AH T
+amanda	AH M AE N D AH
+marvellous	M AA R V EH L AH S
+checkmate	CH EH K M EY T
+mathematics	M AE TH AH M AE T IH K S
+matriculation	M AH T R IH K Y AH L EY SH AH N
+maybe	M EY B IY
+mayonnaise	M EY AH N EY Z
+amelia	AH M IY L Y AH
+memorandum	M EH M ER AE N D AH M
+amend	AH M EH N D
+mention	M EH N SH AH N
+methamphetamine	M EH TH AE M F EH T AH M AY N
+mexican	M EH K S AH K AH N
+manager	M AE N AH JH ER
+bulimia	B Y UW L IH M IY AH
+middle culture	M IH D AH L@K AH L CH ER
+michael	M AY K AH L
+microphone	M AY K R AH F OW N
+milkman	M IH L K M AE N
+mimeograph	M IH M IY AH G R AE F
+missing person	M IH S IH NG@P ER S AH N
+mistress	M IH S T R AH S
+miserable	M IH Z ER AH B AH L
+mobile vulgus	M OW B AH L@V AH L G AH S
+mobile	M OW B AH L
+moccasins	M AA K AH S IH N Z
+mononucleosis	M AA N AH N UW K L IY OW S AH S
+montgomery	M AA N T G AH M R IY
+moving picture	M UW V IH NG@P IH K CH ER
+mosquito	M OW S K IY T OW
+message	M EH S AH JH
+chrysanthemum	K R AH S AE N TH AH M AH M
+mushroom	M AH SH R UW M
+musician	M Y UW Z IH SH AH N
+mussolini	M UW S OW L IY N IY
+vietnam	V IY EH T N AA M
+banana	B AH N AE N AH
+narcotics	N AA R K AA T IH K S
+national service	N AE SH N AH L@S ER V AH S
+naturally	N AE CH ER AH L IY
+natural life	N AE CH ER AH L@L AY F
+beneath	B AH N IY TH
+negative photograph	N EH G AH T IH V@F OW T AH G R AE F
+netty	N EH T IY
+sniff	S N IH F
+nigger	N IH G ER
+nightdress	N AY T D R EH S
+near	N IH R
+enough	IY N AH F
+over	OW V ER
+offlicence	AO F L AY S AH N S
+optical art	AA P T IH K AH L@AA R T
+operator	AA P ER EY T ER
+opinion editorial	AH P IH N Y AH N@EH D AH T AO R IY AH L
+opposite number	AA P AH Z AH T@N AH M B ER
+organization man	AO R G AH N AH Z EY SH AH N@M AE N
+page	P EY JH
+pantaloons	P AE N T AH L UW N Z
+passion	P AE SH AH N
+patricia	P AH T R IH SH AH
+patrick	P AE T R IH K
+pectoral muscles	P EH K T ER AH L@M AH S AH L Z
+people	P IY P AH L
+penitentiary	P EH N AH T EH N CH ER IY
+permanent wave	P ER M AH N AH N T@W EY V
+perversion	P ER V ER ZH AH N
+phenomenon	F AH N AA M AH N AA N
+philadelphia	F IH L AH D EH L F IY AH
+telephone	T EH L AH F OW N
+photograph	F OW T AH G R AE F
+photographer	F AH T AA G R AH F ER
+physiotherapist	F IH S IY OW TH EH R AH P AH S T
+pianoforte	P IY AE N AH F AO R T IY
+picture	P IH K CH ER
+pictures	P IH K CH ER Z
+turnpike	T ER N P AY K
+airplane	EH R P L EY N
+please	P L IY Z
+apply	AH P L AY
+pocket	P AA K AH T
+poker	P OW K ER
+politician	P AA L AH T IH SH AH N
+poliomyelitis	P OW L IY OW M EH L AH T AH S
+pollinaris mineral water	P AA L AH N EH R AH S@M IH N R AH L@W AO T ER
+popular music	P AA P Y AH L ER@M Y UW Z IH K
+pornography	P AO R N AA G R AH F IY
+opossum	OW P AA S AH M
+postman	P OW S M AH N
+people	P IY P AH L
+perambulator	P ER AE M B Y AH L EY T ER
+perhaps	P ER HH AE P S
+premature baby	P R IY M AH CH ER@B EY B IY
+prefabricated structure	P R IY F AE B R IH K EY T AH D@S T R AH K CH ER
+pregnant	P R EH G N AH N T
+pregnant	P R EH G N AH N T
+pregnant	P R EH G N AH N T
+prenuptial agreement	P R IY N AH P SH AH L@AH G R IY M AH N T
+prepare	P R IY P EH R
+preimpregnated	P R IY AH M P R EH G N EY T AH D
+president	P R EH Z AH D AH N T
+primary elections	P R AY M EH R IY@AH L EH K SH AH N Z
+professional	P R AH F EH SH AH N AH L
+prostitute	P R AA S T AH T UW T
+professional amateur	P R AH F EH SH AH N AH L@AE M AH T ER
+problems	P R AA B L AH M Z
+probably	P R AA B L IY
+procurator	P R OW K Y UH R EY T ER
+professor	P R AH F EH S ER
+proctor	P R AA K T ER
+promotion	P ER M OW SH AH N
+prostitute	P R AA S T AH T UW T
+protestant	P R OW T EH S T AH N T
+psychology	S AY K AA L AH JH IY
+psychopath	S AY K OW P AE TH
+public house	P AH B L IH K@HH AW S
+pulmonary motor	P UH L M AH N EH R IY@M OW T ER
+earthquake	ER TH K W EY K
+quasistellar	K W AA Z IH S T EH L ER
+inquisitive	IH N K W IH Z AH T IH V
+radical	R AE D AH K AH L
+rastafarian	R AE S T AH F EH R IY AH N
+referee	R EH F ER IY
+refugee	R EH F Y UW JH IY
+car registration	K AA R@R EH JH AH S T R EY SH AH N
+rehabilitation	R IY AH B IH L AH T EY SH AH N
+relatives	R EH L AH T IH V Z
+parents	P EH R AH N T S
+regards	R AH G AA R D Z
+rhinoceros	R AY N AA S ER AH S
+richie	R IH CH IY
+cockroach	K AA K R OW CH
+roberta	R AH B ER T AH
+robinson	R AA B AH N S AH N
+romantic comedy	R OW M AE N T IH K@K AA M AH D IY
+ronald	R OW N AH L D
+rugby	R AH G B IY
+st kilda football club	S T R IY T@K IH L D AH@F UH T B AO L@K L AH B
+sarah	S EH R AH
+salvationist	S AE L V EY SH AH N AH S T
+sandwich	S AE N W IH CH
+alexander	AE L AH G Z AE N D ER
+sergeant	S AA R JH AH N T
+sausage	S AO S AH JH
+saxophone	S AE K S AH F OW N
+science fiction	S AY AH N S@F IH K SH AH N
+lobscouse	L AA B S K AW S
+prescription	P R AH S K R IH P SH AH N
+second	S EH K AH N D
+sex	S EH K S
+secretary	S EH K R AH T EH R IY
+service station	S ER V AH S@S T EY SH AH N
+milkshake	M IH L K SH EY K
+machine	M IH SH IY N
+sheridan	SH EH R AH D AH N
+shop assistant	SH AA P@AH S IH S T AH N T
+show business	SH OW@B IH Z N AH S
+shrinker	SH R IH NG K ER
+significant other	S IH G N IH F IH K AH N T@AH DH ER
+simulation	S IH M Y AH L EY SH AH N
+sister	S IH S T ER
+sister	S IH S T ER
+situation comedy	S IH CH UW EY SH AH N@K AA M AH D IY
+skinhead	S K IH N HH EH D
+slow motion	S L OW@M OW SH AH N
+smoke	S M OW K
+association football	AH S OW S IY EY SH AH N@F UH T B AO L
+spaghetti bolognese	S P AH G EH T IY@B OW L OW G N EY Z IY
+spastic	S P AE S T IH K
+speculation	S P EH K Y AH L EY SH AH N
+spectacles	S P EH K T AH K AH L Z
+despite	D IH S P AY T
+speak	S P IY K
+disport	D IH S P AO R T
+espy	EH S P IY
+sorry	S AA R IY
+stark naked	S T AA R K@N EY K AH D
+stark naked	S T AA R K@N EY K AH D
+stereophonic	S T EH R IY AH F AA N IH K
+to distill	T AH@D IH S T IH L
+history	HH IH S T R IY
+estrange	EH S T R EY N JH
+student	S T UW D AH N T
+stupid	S T UW P AH D
+submarine	S AH B M ER IY N
+substitute	S AH B S T AH T UW T
+suzanne	S UW Z AE N
+summarize	S AH M ER AY Z
+sunglasses	S AH N G L AE S AH Z
+surfer	S ER F ER
+swimming shorts	S W IH M IH NG@SH AO R T S
+sydney	S IH D N IY
+system operator	S IH S T AH M@AA P ER EY T ER
+tabulator	T AE B Y AH L EY T ER
+tablet	T AE B L AH T
+tabloid show	T AE B L OY D@SH OW
+moustache	M AH S T AE SH
+talcum	T AE L K AH M
+retard	R IY T AA R D
+potato	P AH T EY T OW
+taximeter cabriolet	T AE K S AH M IY T ER@K AE B R IY OW L EY
+tuberculosis	T UW B ER K Y AH L OW S AH S
+teacher	T IY CH ER
+detective	D AH T EH K T IH V
+technology	T EH K N AA L IH JH IY
+teenager	T IY N EY JH ER
+television	T EH L AH V IH ZH AH N
+television	T EH L AH V IH ZH AH N
+temporary building	T EH M P ER EH R IY@B IH L D IH NG
+attend	AH T EH N D
+ticket	T IH K AH T
+mathilda	M AH T IH L D AH
+letitia	L AH T IH SH IY AH
+thomas	T AA M AH S
+victoria	V IH K T AO R IY AH
+traditional jazz	T R AH D IH SH AH N AH L@JH AE Z
+tranquillizer	T R AE NG K W AH L AY Z ER
+patricia	P AH T R IH SH AH
+beatrice	B IY T R AH S
+tuition	T Y UW IH SH AH N
+attitude	AE T AH T UW D
+turpentine	T ER P AH N T AY N
+transvestite	T R AE N Z V EH S T AY T
+between	B AH T W IY N
+typographical	T AY P AH G R AE F IH K AH L
+university	Y UW N IH V ER S AH T IY
+university	Y UW N IH V ER S AH T IY
+uturn	Y UW T ER N
+underground railway	AH N D ER G R AW N D@R EY L W EY
+underwear	AH N D ER W EH R
+vagina	V AH JH AY N AH
+seductive woman	S AH D AH K T IH V@W UH M AH N
+advantage	AE D V AE N T IH JH
+caravan	K AE R AH V AE N
+university	Y UW N IH V ER S AH T IY
+elevator	EH L AH V EY T ER
+veronica	V ER AA N IH K AH
+vegetable	V EH JH T AH B AH L
+vegetarian	V EH JH AH T EH R IY AH N
+vegetarian	V EH JH AH T EH R IY AH N
+vegetable	V EH JH T AH B AH L
+ventriloquist	V EH N T R AH L AA K W AH S T
+adventure	AE D V EH N CH ER
+sylvester	S IH L V EH S T ER
+veteran	V EH T ER AH N
+veterinarian	V EH T R AH N EH R IY AH N
+vibraphone	V AY B R AH F OW N
+victoria	V IH K T AO R IY AH
+very	V EH R IY
+versus	V ER S AH Z
+whatever	W AH T EH V ER
+wireless fidelity	W AY R L AH S@F AY D EH L AH T IY
+periwig	P ER IH W IH G
+wine	W AY N
+week	W IY K
+woolworths	W UH L W ER TH S
+wordsworth	W ER D Z W ER TH
+alexandra	AE L IH G Z AE N D R AH
+montagnard	M AA N T AE G N ER D
+pizza	P IY T S AH
+zeppelin	Z EH P AH L AH N
+magazine	M AE G AH Z IY N
+amazing	AH M EY Z IH NG
+zoological garden	Z OW AH L AA JH IH K AH L@G AA R D AH N
