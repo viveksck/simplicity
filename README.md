@@ -32,4 +32,4 @@ We would greatly appreciate if you use the following citation if you find this c
 
 We thank (Gangal.et al) the authors of "Charmanteau: Character Embedding Models For Portmanteau Creation (EMNLP 2017)" for releasing their data for blends. We also thank (Hixon. et.al) authors of "Phonemic similarity metrics to compare pronunciation methods." for also releasing their PAM matrix (wspm.txt.tab) for comparing phonetic similarity. 
 
-*Disclaimer: This code is research quality and is provided as is with no warranty. *
+*Disclaimer: This code is research quality and is provided as is with no warranty.*
