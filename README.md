@@ -17,15 +17,17 @@ Each Jupyter Notebook can be run to reproduce the results since the output data 
 We would greatly appreciate if you use the following citation if you find this code useful.
 
 ```
-@inproceedings{Kulkarni:slanggen,
- author = {Kulkarni,Vivek and Wang William, Yang},
- title = {Simple Models for Word Formation in English Slang},
- booktitle = {Proceedings of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
- series = {NAACL HLT '18},
- year = {2018},
- location = {New Orleans, USA},
- numpages = {9},
-} 
+@InProceedings{N18-1129,
+  author = 	"Kulkarni, Vivek
+		and Wang, William Yang",
+  title = 	"Simple Models for Word Formation in Slang",
+  booktitle = 	"Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"1424--1434",
+  location = 	"New Orleans, Louisiana",
+  url = 	"http://aclweb.org/anthology/N18-1129"
+}
 ```
 
 **Acknowledgements**
